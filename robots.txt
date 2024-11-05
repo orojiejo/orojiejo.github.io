@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://orojiejo.github.io/NGt/sitemap_index.txt
+Sitemap: https://orojiejo.github.io/Pfa/sitemap_index.txt
+Sitemap: https://orojiejo.github.io/Tat/sitemap_index.txt
+Sitemap: https://orojiejo.github.io/lYM/sitemap_index.txt
